@@ -1,0 +1,9 @@
+node_modules/
+session/
+data/database.json
+.env
+*.log
+npm-debug.log*
+.DS_Store
+fleet.json
+ecosystem.fleet.config.js
